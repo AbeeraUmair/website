@@ -1,0 +1,171 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url(./IMAGES/download\ \(1\)\ \(1\).jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nav {
+    /* list-style-type:none;
+    display: inline-block; */
+    background-image:linear-gradient( rgb(230, 88, 142), rgb(230, 123, 187));
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    text-align: left;
+    color: #fff;
+    padding: 1px;
+}
+.nav img{
+    padding:5px;
+    float: left;
+    margin: 2px;
+    border-radius: 40px;
+}
+.bird img{
+    height: 150px;
+    width: 150px;
+    margin: 20px;
+
+}
+.color {
+    color: rgb(243, 242, 210);
+    background-color: rgb(224, 176, 176);
+    float: right;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-right: 20px;
+    margin-top: 8px;
+    border-radius: 20px;
+    border: 1;
+    border-color: rgb(202, 161, 250);
+
+
+}
+
+ul li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px;
+    color: white;
+}
+
+.heading{
+    text-align: center;
+    margin-top: 100px;
+}
+
+#one{
+    margin-top: 30px;
+    margin-left: 30px;
+    float: left;
+    height: 130px;
+}
+
+#two{
+    float: left;
+    margin-left: 50px;
+    height: 130px;
+
+}
+
+#three{
+    float: left;
+    margin-left: 50px;
+    height: 130px;
+
+
+}
+
+#four{
+    float: left;
+    margin-left: 50px;
+    height: 130px;
+
+}
+#five{
+margin-top: 250px;
+}
+
+img{
+    border-radius: 20px;
+
+}
+
+
+
+ol li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 30px;
+    color: rgb(5, 5, 5);
+    margin-left: 50px;
+    font-weight: bolder;
+    border-radius: 20px;
+}
+
+footer{
+    background-image: linear-gradient( rgb(230, 123, 187), rgb(230, 123, 187));
+    height: 130px;
+    margin-top: 100px;
+    margin-left: 20px;
+    margin-right:20px ;
+    position: sticky;
+
+}
+.login{
+    background-color: rgba(190, 188, 149, 0.7);
+    padding: 20px;
+
+    border: 1px solid black;
+    width: 20%;
+    height: 300px;
+    margin-top: 50px;
+}
+p.about{
+    text-align: center;
+    margin-top: 100px;
+    width:50% ;
+font-weight: bolder;
+font: 1em sans-serif;
+text-transform:uppercase;
+
+}
+.signup{
+    border: 1px solid black;
+    background-color: rgba(190, 188, 149, 0.7);
+    width:20% ;
+    height: 350px;
+    padding: 20px;
+    margin-top: 30px;
+   
+}
+input:focus{
+    background-color: rgba(109, 104, 3, 0.7);
+}
+.a:focus{
+    background-color: rgba(248, 238, 244, 0.7);
+}
+.signInBtn-link{
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+    text-transform: capitalize;
+}
+.submit{
+    color: rgb(243, 242, 210);
+    background-color: rgb(157, 158, 95);
+   
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-right: 20px;
+    margin-top: 8px;
+    border-radius: 20px;
+    border: 1;
+    border-color: rgb(202, 161, 250);}
